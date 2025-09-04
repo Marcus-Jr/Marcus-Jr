@@ -36,7 +36,7 @@
   <br>
   
   <div>
-    <img src="https://media1.tenor.com/m/30MSjdpw-7gAAAAC/squirtle-pokemon.gif" width="100" height="100"/>
+    <img src="https://media1.tenor.com/m/30MSjdpw-7gAAAAC/squirtle-pokemon.gif" width="200" height="200"/>
   </div>
 
 </div>
