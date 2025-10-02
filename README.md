@@ -6,8 +6,10 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcus-Jr&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Jr&layout=compact&theme=radical" alt="Top Langs" height="180px" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Marcus-Jr&show_icons=true&theme=vue" alt="GitHub Stats" width="100px"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Jr&layout=compact&theme=vue" alt="Top Langs" width="100px"/>
 </div>
 <br>
 
