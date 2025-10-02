@@ -1,8 +1,8 @@
 ## 👋 Olá, eu sou Marcus Jr  
 
-🔭 Atualmente trabalho com **sistemas de ERP e canais de vendas**  
-🌱 Aprendendo mais sobre **boas práticas de arquitetura de software e novos frameworks**  
-💬 Pergunte-me sobre **minha vida e projetos**  
+- Atualmente trabalho com **sistemas de ERP e canais de vendas**  
+- Aprendendo mais sobre **boas práticas de arquitetura de software e novos frameworks**  
+- Pergunte-me sobre **minha vida e projetos**  
 
 ---
 
