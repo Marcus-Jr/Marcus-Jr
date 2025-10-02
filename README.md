@@ -16,9 +16,9 @@
 
 ### 🛠️ Tecnologias
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=php" width="60"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="60"/>
+  <img src="https://skillicons.dev/icons?i=vue" width="60"/>
 </div>
 
 ---
