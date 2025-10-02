@@ -6,10 +6,10 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcus-Jr&show_icons=true&theme=vue" alt="GitHub Stats" width="100px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Marcus-Jr&show_icons=true&theme=vue" alt="GitHub Stats" height="170px"/>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Jr&layout=compact&theme=vue" alt="Top Langs" width="100px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Jr&layout=compact&theme=vue" alt="Top Langs" height="170px"/>
 </div>
 <br>
 
