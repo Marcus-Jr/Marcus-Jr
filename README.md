@@ -8,8 +8,8 @@
 
 ### 🚀 Meus Status
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Marcus-Jr&show_icons=true&theme=vue" alt="GitHub Stats"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Jr&layout=compact&theme=vue" alt="Top Langs"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Marcus-Jr&show_icons=true&theme=react" alt="GitHub Stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Jr&layout=compact&theme=react" alt="Top Langs"/>
 </div>
 
 ---
@@ -18,7 +18,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php" width="60"/>
   <img src="https://skillicons.dev/icons?i=javascript" width="60"/>
-  <img src="https://skillicons.dev/icons?i=vue" width="60"/>
+  <img src="https://skillicons.dev/icons?i=react" width="60"/>
 </div>
 
 ---
