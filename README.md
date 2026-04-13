@@ -23,9 +23,7 @@
 <h3 align="center">🛠️ Tecnologias</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php" width="60"/>
-  <img src="https://skillicons.dev/icons?i=javascript" width="60"/>
-  <img src="https://skillicons.dev/icons?i=react" width="60"/>
+    <img src="https://skillicons.dev/icons?i=php,js,ts,react,nodejs,vue,html,css,postgresql,bootstrap" />
 </div>
 
 ---
