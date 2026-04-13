@@ -1,12 +1,15 @@
-## 👋 Olá, eu sou Marcus Jr  
+<h1 align="center">👋 Olá, eu sou Marcus Jr</h1>
 
-- Atualmente trabalho com **sistemas de ERP e canais de vendas**  
-- Aprendendo mais sobre **boas práticas de arquitetura de software e novos frameworks**  
-- Pergunte-me sobre **minha vida e projetos**  
+<p align="center">
+  🔧 Trabalho com <strong>sistemas de ERP e canais de vendas</strong><br/>
+  📚 Aprendendo sobre <strong>boas práticas de arquitetura de software e novos frameworks</strong><br/>
+  💬 Pergunte-me sobre <strong>minha vida e projetos</strong>
+</p>
 
 ---
 
-### 🚀 Meus Status
+<h3 align="center">🚀 Meus Status</h3>
+
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Marcus-Jr&show_icons=true&theme=react" alt="GitHub Stats"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Jr&layout=compact&theme=react" alt="Top Langs"/>
@@ -14,7 +17,8 @@
 
 ---
 
-### 🛠️ Tecnologias
+<h3 align="center">🛠️ Tecnologias</h3>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php" width="60"/>
   <img src="https://skillicons.dev/icons?i=javascript" width="60"/>
@@ -23,7 +27,8 @@
 
 ---
 
-### 🌐 Conecte-se comigo
+<h3 align="center">🌐 Conecte-se comigo</h3>
+
 <div align="center">
   <a href="https://www.instagram.com/marcus.fr_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
