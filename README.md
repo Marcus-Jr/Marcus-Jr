@@ -11,8 +11,11 @@
 <h3 align="center">🚀 Meus Status</h3>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Marcus-Jr&show_icons=true&theme=react" alt="GitHub Stats"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Jr&layout=compact&theme=react" alt="Top Langs"/>
+  <img src="https://streak-stats.demolab.com?user=Marcus-Jr&theme=react" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcus-Jr&theme=react-dark&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
