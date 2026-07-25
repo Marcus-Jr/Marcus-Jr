@@ -82,15 +82,6 @@ Minha rotina envolve investigar problemas, entender o que realmente aconteceu no
 
 ---
 
-## `~/commit-history`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Marcus-Jr&theme=flat&no-frame=true&no-bg=true&column=7" />
-
-</div>
-
----
 
 
 ## `~/connect`
@@ -119,6 +110,5 @@ Minha rotina envolve investigar problemas, entender o que realmente aconteceu no
 $ echo "Keep learning. Keep building. Keep debugging."
 ```
 
-<img src="https://media1.tenor.com/m/30MSjdpw-7gAAAAC/squirtle-pokemon.gif" width="130"/>
 
 </div>
