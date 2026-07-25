@@ -1,49 +1,23 @@
-<h1 align="center">👋 Olá, eu sou Marcus Jr</h1>
+# Marcus Jr
 
-<p align="center">
-  🔧 Trabalho com <strong>sistemas de ERP e canais de vendas</strong><br/>
-  📚 Aprendendo sobre <strong>boas práticas de arquitetura de software e novos frameworks</strong><br/>
-  💬 Pergunte-me sobre <strong>minha vida e projetos</strong>
-</p>
+Trabalho no dia a dia com sistemas de ERP e integrações de canais de venda — a parte de TI que ninguém vê mas que quebra tudo se sair do lugar. Fora do trabalho ando estudando mais a fundo arquitetura de software, tentando sair do "funciona" pro "funciona e não vai me dar dor de cabeça daqui 6 meses".
 
----
+Stack que uso no dia a dia:
 
-<h3 align="center">🚀 Meus Status</h3>
+<img src="https://skillicons.dev/icons?i=php,js,ts,react,nodejs,vue,html,css,postgresql,bootstrap" />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Marcus-Jr&theme=react" alt="GitHub Streak"/>
-</div>
+## Atividade
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcus-Jr&theme=react-dark&hide_border=true" alt="Activity Graph"/>
-</div>
+<img src="https://streak-stats.demolab.com?user=Marcus-Jr&theme=react" alt="GitHub Streak"/>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcus-Jr&theme=react-dark&hide_border=true" alt="Activity Graph"/>
 
-<h3 align="center">🛠️ Tecnologias</h3>
+## Contato
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=php,js,ts,react,nodejs,vue,html,css,postgresql,bootstrap" />
-</div>
+- Email: juniorfranca632@gmail.com
+- LinkedIn: [marcus-frança](https://www.linkedin.com/in/marcus-fran%C3%A7a-35a298286/)
+- Instagram: [@marcus.fr_](https://www.instagram.com/marcus.fr_/)
 
 ---
 
-<h3 align="center">🌐 Conecte-se comigo</h3>
-
-<div align="center">
-  <a href="https://www.instagram.com/marcus.fr_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/marcus-fran%C3%A7a-35a298286/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:juniorfranca632@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://media1.tenor.com/m/30MSjdpw-7gAAAAC/squirtle-pokemon.gif" width="200"/>
-</div>
+<img src="https://media1.tenor.com/m/30MSjdpw-7gAAAAC/squirtle-pokemon.gif" width="180"/>
