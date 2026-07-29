@@ -29,7 +29,7 @@ $ ./about-me.sh
 
 > Desenvolvedor que trabalha entre código, banco de dados, regras de negócio e incidentes que aparentemente "não deveriam acontecer".
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na UDESC de Joinville, trabalho como Desenvolvedor de Software Jr
+Desenvolvedor de Software Júnior e estudante de Análise e Desenvolvimento de Sistemas na UDESC Joinville
 
 ---
 
