@@ -70,9 +70,11 @@ Minha rotina envolve investigar problemas, entender o que realmente aconteceu no
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcus-Jr&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus-Jr&layout=compact&hide_border=true&theme=github_dark"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake.svg">
+</picture>
 
 </div>
 
