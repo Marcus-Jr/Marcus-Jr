@@ -29,7 +29,7 @@ $ ./about-me.sh
 
 > Desenvolvedor que trabalha entre código, banco de dados, regras de negócio e incidentes que aparentemente "não deveriam acontecer".
 
-Minha rotina envolve investigar problemas, entender o que realmente aconteceu nos dados, corrigir sistemas e transformar regras de negócio em software que precisa continuar funcionando depois que o deploy termina.
+Sou estudante de Análise e Desenvolvimento de Sistemas na UDESC de Joinville, trabalho como Desenvolvedor de Software Jr
 
 ---
 
